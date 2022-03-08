@@ -1,0 +1,7 @@
+{
+  "name": "Tabchi",
+  "description": "Tabchi bot",
+  "repository": "https://github.com/milad8950/tab-chi",
+  "logo": "http://pngimg.com/uploads/telegram/telegram_PNG36.png",
+  "keywords": ["node", "express", "static"]
+}
